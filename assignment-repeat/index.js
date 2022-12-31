@@ -5,5 +5,5 @@ if(num%3==0)
 {
   console.log("Multiple of 3");
 }else{
-  console.log("Not ultiple of 3")
+  console.log("Not Multiple of 3")
 }
